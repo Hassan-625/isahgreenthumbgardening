@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://YOUR-USERNAME.github.io/isahgreenthumbgardening/</loc>
+        <loc>https://hassan-625.github.io/isahgreenthumbgardening/</loc>
         <lastmod>2024-01-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://YOUR-USERNAME.github.io/isahgreenthumbgardening/about.html</loc>
+        <loc>https://hassan-625.github.io/isahgreenthumbgardening/about.html</loc>
         <lastmod>2024-01-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://YOUR-USERNAME.github.io/isahgreenthumbgardening/vegetables.html</loc>
+        <loc>https://hassan-625.github.io/isahgreenthumbgardening/vegetables.html</loc>
         <lastmod>2024-01-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://YOUR-USERNAME.github.io/isahgreenthumbgardening/herbs.html</loc>
+        <loc>https://hassan-625.github.io/isahgreenthumbgardening/herbs.html</loc>
         <lastmod>2024-01-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://YOUR-USERNAME.github.io/isahgreenthumbgardening/tools.html</loc>
+        <loc>https://hassan-625.github.io/isahgreenthumbgardening/tools.html</loc>
         <lastmod>2024-01-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://YOUR-USERNAME.github.io/isahgreenthumbgardening/contact.html</loc>
+        <loc>https://hassan-625.github.io/isahgreenthumbgardening/contact.html</loc>
         <lastmod>2024-01-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
 </urlset>
