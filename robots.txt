@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 
-Sitemap: https://YOUR-USERNAME.github.io/isahgreenthumbgardening/sitemap.xml
+
+Sitemap: https://hassan-625.github.io/isahgreenthumbgardening/sitemap.xml
