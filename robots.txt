@@ -3,4 +3,5 @@ Allow: /
 Disallow: /admin/
 
 
-Sitemap: https://hassan-625.github.io/isahgreenthumbgardening/sitemap.xml
+Sitemap: https://isahgreenthumbgardening.vercel.app/sitemap.xml
+
